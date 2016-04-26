@@ -17,6 +17,8 @@ https://www-304.ibm.com/services/learning/ites.wss/zz/en/?pageType=page&c=J17953
 *[Tutorial](https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/7.1/all-tutorials/)
 
 
+http://event.on24.com/clients/ibm/mobilefirst/build.html?
+
 
 MobileFirst Platform Foundation
 
