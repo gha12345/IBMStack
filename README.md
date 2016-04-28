@@ -1,5 +1,22 @@
 # IBM-MobileFirstPlatform
 
+## Tools
+
+MobileFirst Development Kit bundles together the following components: 
+* MobileFirst Server 
+* MobileFirst Operations Console
+* MobileFirst Command-line Interface (CLI)
+* MobileFirst client SDKs 
+* MobileFirst adapter tooling
+
+
+* MobileFirst Plaform Fountation
+* MobileFirst Studio
+* MobileFirst Mobile Test Workbench
+* IBM Installation Manager
+* WebSphere Liberty profile v8.5.5.8
+* MobileFirst Server for Production
+
 
 https://www-304.ibm.com/services/learning/ites.wss/zz/en/?pageType=page&c=J179530Z42409M36
 
