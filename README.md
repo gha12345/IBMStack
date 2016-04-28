@@ -9,10 +9,11 @@ MobileFirst Development Kit bundles together the following components:
 * MobileFirst client SDKs 
 * MobileFirst adapter tooling
 
-
 * MobileFirst Plaform Fountation
 * MobileFirst Studio
 * MobileFirst Mobile Test Workbench
+
+Production Server
 * IBM Installation Manager
 * WebSphere Liberty profile v8.5.5.8
 * MobileFirst Server for Production
