@@ -1,5 +1,11 @@
 # IBM-MobileFirstPlatform
 
+## Start Here
+
+* [mfp.help](https://mfp.help/)
+* [IBM MobileFirst Platform Foundation 8.0](https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/)
+
+
 ## Tools
 
 MobileFirst Development Kit bundles together the following components: 
