@@ -14,7 +14,6 @@ MobileFirst Development Kit bundles together the following components:
 * MobileFirst Command-line Interface (CLI)
 * MobileFirst client SDKs 
 * MobileFirst adapter tooling
-
 * MobileFirst Plaform Fountation
 * MobileFirst Studio
 * MobileFirst Mobile Test Workbench
@@ -23,6 +22,21 @@ Production Server
 * IBM Installation Manager
 * WebSphere Liberty profile v8.5.5.8
 * MobileFirst Server for Production
+
+
+
+## API Connect
+
+* [Getting Started](https://developer.ibm.com/apiconnect/getting-started/)
+* [IBM API Connect: new approach for API management](https://www.youtube.com/watch?v=lmxyiNMER5Y)
+* [Introducing IBM API Connect](https://strongloop.com/strongblog/introducing-ibm-api-connect/)
+
+## MFP
+
+## Bluemix
+
+## Watson
+
 
 
 https://www-304.ibm.com/services/learning/ites.wss/zz/en/?pageType=page&c=J179530Z42409M36
