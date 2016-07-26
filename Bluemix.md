@@ -1,7 +1,7 @@
 
 
 * [Getting Started with Bluemix](https://developer.ibm.com/bluemix/2016/02/18/getting-started-with-bluemix/)
-* [Bluemix Signup - Getting started](http://www.ibm.com/cloud-computing/bluemix/getting-started/_
+* [Bluemix Signup - Getting started](http://www.ibm.com/cloud-computing/bluemix/getting-started/)
 * [How to use the Bluemix platform](https://console.ng.bluemix.net/docs/)
 * [Bluemix - Github](https://github.com/IBM-Bluemix)
 * [Bluemix questions is Stack Overflow](http://stackoverflow.com/questions/tagged/ibm-bluemix)
