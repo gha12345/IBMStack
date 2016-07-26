@@ -10,3 +10,4 @@
 * [Tutorials & training](http://www.ibm.com/developerworks/learn/cloud/)
 * [IBM Bluemix fundamentals](https://www.ibm.com/developerworks/cloud/bluemix/fundamentals/)
 * [Course - Bluemix essentials](https://developer.ibm.com/courses/all-courses/bluemix-essentials/)
+* [Get started with IBM Bluemix - 8 hours Course](https://developer.ibm.com/courses/all-courses/get-started-with-bluemix/)
