@@ -21,6 +21,29 @@
 
 
 
+* [IBM Cloud Data Services](CDSLab/CodeCamp2016)
+* [APIConnect Loopback basics](https://github.com/asimX/APIConnect-Loopback-basics)
+
+
+* [A collection of node-red nodes for the IBM Bluemix platform](https://github.com/node-red/node-red-bluemix-nodes)
+
+* [Simplify Your Life with Your Own IBM Watson Personal Assistant](https://github.com/CDSLab/CodeCamp2016)
+
+* [Polls sample app for IBM BlueMix PaaS](https://github.com/joelennon/bluemixpolls)
+
+* [Building Bots with Watson Conversation](http://www.slideshare.net/StefaniaKaczmarczyk/building-bots-with-watson-conversation)
+* [Watson Bot Starter](https://github.com/slkaczma/watson-bot-starter)
+
+
+* [An end-to-end demo of IBM API Connect v5 and IBM MobileFirst Platform v8](https://github.com/danifitz/APIC-MFP-Employee-Demo)
+
+
+https://github.com/node-red/node-red-bluemix
+
+
+
+* [How to Run and Deploy the Picture Finder App](https://github.com/ibmjstart/bluemix-picturefinder)
+
 IBM
 https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/using-the-mfpf-sdk/live-update/
 https://mobilefirstplatform.ibmcloud.com/blog/2016/07/19/changing-your-app-on-the-fly-with-ibm-mobilefirst-foundation-8-0/
