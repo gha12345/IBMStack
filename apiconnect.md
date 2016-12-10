@@ -5,3 +5,4 @@
 
 * [apiconnect - NPM - IBM API Connect Developer Toolkit](https://www.npmjs.com/package/apiconnect)
 
+https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/mapfiles/getting_started.html
