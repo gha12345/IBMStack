@@ -35,11 +35,13 @@
   * Node.js & Java common management & scaling
   * Seamlessly stage to cloud or on-prem catalog
   
-#IBM API Connect
+# IBM API Connect
 * [The Role of Webhooks in the API World](https://dzone.com/articles/webhooks-role-in-the-api-world-1)
 
 # Code Sample
 * [API Connect v5 Getting Started: Developing, Testing, and Publishing an API to Bluemix using apic](https://github.com/ibm-apiconnect/climbingweather)
+
+
 
 # Books
 
@@ -47,7 +49,8 @@
 * [IBM API Connect Corporate Online Training](http://www.virtualnuggets.com/ibm-api-connect.html)
 
 
-
+# URL
+* [LoopBack, StrongLoop, and API Connect - how in the heck do they relate?](https://www.raymondcamden.com/2016/04/27/loopback-strongloop-and-api-connect-how-in-the-heck-do-they-relate)
 * [apiconnect - NPM - IBM API Connect Developer Toolkit](https://www.npmjs.com/package/apiconnect)
 
 https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/mapfiles/getting_started.html
