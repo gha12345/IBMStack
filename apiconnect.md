@@ -44,6 +44,7 @@
 
 
 # Books
+* [Getting Started with IBM API Connect Concepts and Architecture Guide](http://www.redbooks.ibm.com/redpapers/pdfs/redp5349.pdf)
 
 # Training
 * [IBM API Connect Corporate Online Training](http://www.virtualnuggets.com/ibm-api-connect.html)
