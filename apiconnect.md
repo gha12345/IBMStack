@@ -29,7 +29,7 @@
   * Community Management
   * Profiler-icon
 
-Secure
+* Secure
   * Build, debug, deploy, Node.js microservice apps
   * Build, debug, deploy Java microservice apps
   * Node.js & Java common management & scaling
