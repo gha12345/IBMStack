@@ -65,6 +65,11 @@ https://www.codeproject.com/Articles/500644/Understanding-Generic-Dictionary-in-
 https://www.codeproject.com/Articles/736832/Csharp-Generics
 
 
+https://docs.apiconnect.io/htmlpages/product-introduction.html#apiconnectfeatures
+
+
+https://apigee.com/about/resources/ebooks
+
 https://www.tutorialspoint.com/csharp/csharp_anonymous_methods.htm
 
 https://msdn.microsoft.com/en-us/library/ms379564(v=vs.80).aspx
