@@ -110,3 +110,4 @@ https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/mapfiles/getting_starte
 
 http://www.ibm.com/software/industry/images/API_Connect_Circle_1.png
 http://image.slidesharecdn.com/strongloopapimgmttogetheroct26-151026193707-lva1-app6891/95/ibm-strongloop-and-api-management-9-638.jpg
+https://adtmag.com/articles/2016/06/23/~/media/ECG/adtmag/Images/2016/06/mobilefirst_experience.png
