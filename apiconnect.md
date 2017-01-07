@@ -52,6 +52,10 @@ http://www.slideshare.net/ibmapimgmt/ibm-strongloop-and-api-management
 # Training
 * [IBM API Connect Corporate Online Training](http://www.virtualnuggets.com/ibm-api-connect.html)
 
+# Video Training
+Inside IBM API Connect Version 5: An end-to-end demo
+https://www.youtube.com/watch?v=hCvUYd67rbI
+
 
 # URL
 * [LoopBack, StrongLoop, and API Connect - how in the heck do they relate?](https://www.raymondcamden.com/2016/04/27/loopback-strongloop-and-api-connect-how-in-the-heck-do-they-relate)
