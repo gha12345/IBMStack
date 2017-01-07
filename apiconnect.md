@@ -116,3 +116,31 @@ https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/mapfiles/getting_starte
 http://www.ibm.com/software/industry/images/API_Connect_Circle_1.png
 http://image.slidesharecdn.com/strongloopapimgmttogetheroct26-151026193707-lva1-app6891/95/ibm-strongloop-and-api-management-9-638.jpg
 https://adtmag.com/articles/2016/06/23/~/media/ECG/adtmag/Images/2016/06/mobilefirst_experience.png
+
+
+API Connect Video Series: APIs and Services
+https://www.youtube.com/watch?v=hgAggJHL4to
+
+API Connect technical video series 
+https://www.youtube.com/playlist?list=PLFa8jnU0KqE2eW5E449ziaurv8obSbcou&cm_mc_uid=83093154720314805294116&cm_mc_sid_50200000=1483814746
+https://www.ibm.com/blogs/bluemix/2016/06/introducing-api-connect-getting-started-video-series/
+
+IBM API Connect: Demo Walkthrough - Create, run, manage and consume an API
+https://www.youtube.com/watch?v=C1jmUvmtry0&t=214s
+
+Introduction to IBM's API Offering: API Connect
+https://www.youtube.com/watch?v=VBdCzGb17pE
+
+API Strategy with IBM API Connect
+https://www.youtube.com/watch?v=TBNJEF6Gkos
+
+Create and test APIs using the API Designer
+https://www.youtube.com/watch?v=T9nwR4OrHnk
+
+API Connect Video Series: API Economy Best Practices	https://www.youtube.com/watch?v=IKjIIZXSWFE
+API Connect Video Series: APIe- What's Happening? (Part 1)	https://www.youtube.com/watch?v=1jeaGwlVBQA
+API Connect Video Series: APIe- What's Happening? (Part 2)	https://www.youtube.com/watch?v=-MlFKCxOVvg
+API Connect Video Series: APIs and Services	https://www.youtube.com/watch?v=hgAggJHL4to
+API Connect Video Series: Monetizing Your APIs	https://www.youtube.com/watch?v=C0kTFJyTujw
+
+
