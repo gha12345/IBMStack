@@ -42,7 +42,8 @@
 # Code Sample
 * [API Connect v5 Getting Started: Developing, Testing, and Publishing an API to Bluemix using apic](https://github.com/ibm-apiconnect/climbingweather)
 
-
+IBM StrongLoop and API Management
+http://www.slideshare.net/ibmapimgmt/ibm-strongloop-and-api-management
 
 # Books
 * [Getting Started with IBM API Connect Concepts and Architecture Guide](http://www.redbooks.ibm.com/redpapers/pdfs/redp5349.pdf)
