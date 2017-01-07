@@ -37,6 +37,7 @@
   
 # IBM API Connect
 * [The Role of Webhooks in the API World](https://dzone.com/articles/webhooks-role-in-the-api-world-1)
+* [API Connect](https://mapie.help/apic/)
 
 # Code Sample
 * [API Connect v5 Getting Started: Developing, Testing, and Publishing an API to Bluemix using apic](https://github.com/ibm-apiconnect/climbingweather)
@@ -106,3 +107,6 @@ https://apigee.com/about/cp/api-management-use-cases
 https://developer.ibm.com/apiconnect/2016/09/07/identifying-api-use-cases-in-banking/
 
 https://www.ibm.com/support/knowledgecenter/SSMNED_5.0.0/mapfiles/getting_started.html
+
+http://www.ibm.com/software/industry/images/API_Connect_Circle_1.png
+http://image.slidesharecdn.com/strongloopapimgmttogetheroct26-151026193707-lva1-app6891/95/ibm-strongloop-and-api-management-9-638.jpg
