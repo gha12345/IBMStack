@@ -1,5 +1,29 @@
 
 
+* Infrastructure
+  * Compute
+  * Storage
+  * Network
+  * Security
+* Apps
+  * Boilerplates
+  * Cloud Foundry Apps
+  * Containers
+  * OpenWhisk
+  * Mobile
+* Services
+  * Data & Analytics
+  * Watson
+  * Internet of Things
+  * APIs
+  * Network
+  * Storage
+  * Security
+  * DevOps
+  * Application Services
+  * Integrate
+
+
 * [Getting Started with Bluemix](https://developer.ibm.com/bluemix/2016/02/18/getting-started-with-bluemix/)
 * [Bluemix Signup - Getting started](http://www.ibm.com/cloud-computing/bluemix/getting-started/)
 * [How to use the Bluemix platform](https://console.ng.bluemix.net/docs/)
