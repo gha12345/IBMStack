@@ -31,3 +31,15 @@ Created by Reverb API
 https://reverb.com/swagger#!/accounts
 
 Watson API Explorer - 	https://watson-api-explorer.mybluemix.net/ - A collection of Swagger documentation for the Watson APIs.
+
+
+
+
+
+
+**Swagger Editor**  Swagger Editor lets you edit API specifications in YAML inside your browser and to preview documentation in real time.
+
+**Swagger Codegen** A template-driven engine to generate client code in different languages by parsing your Swagger documentation.
+
+**Swashbuckle** is a tool for generating Swagger, the API description language, from your ASP.NET Web Api solution.
+
