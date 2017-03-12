@@ -17,6 +17,6 @@
 * **Tradeoff Analytics	IBM	Tradeoff Analytics:** Helps make better choices under multiple conflicting goals. Combines smart visualization and recommendations for tradeoff exploration
 * **Visual Recognition	IBM	Visual Recognition:** Find meaning in visual content! Analyze images for scenes, objects, faces, text, and other content. Choose a default model off the shelf, or create your own custom classifier. Develop smart applications that analyze the visual content of images or video frames to understand what is happening in a scene.
 * **Cognitive Commerce™	Third Party	Cognitive Commerce™:** Cognitive Commerce is a service provided by Cognitive Scale.
-* **Cognitive Graph	Third Party	Cognitive Graph: Cognitive Graph is a service provided by Cognitive Scale.
+* **Cognitive Graph	Third Party	Cognitive Graph:** Cognitive Graph is a service provided by Cognitive Scale.
 * **Cognitive Insights™	Third Party	Cognitive Insights™:** Cognitive Insights™ is a service provided by Cognitive Scale.
-* Emotion Analysis	IBM**	Use natural language to analyze content and better understand others' emotions with this part of the AlchemyLanguage suite of APIs.
+* **Emotion Analysis	IBM**	Use natural language to analyze content and better understand others' emotions with this part of the AlchemyLanguage suite of APIs.
