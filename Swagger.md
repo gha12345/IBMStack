@@ -43,3 +43,12 @@ Watson API Explorer - 	https://watson-api-explorer.mybluemix.net/ - A collection
 
 **Swashbuckle** is a tool for generating Swagger, the API description language, from your ASP.NET Web Api solution.
 
+RAML
+RAML is a newish JSON- and YAML-based API modeling language specification. It's a "non-proprietary, vendor-neutral open spec," but you should know that MuleSoft is behind much of the current development. 
+
+
+
+# Alternate
+* [carte](https://github.com/Wiredcraft/carte)-Simple Jekyll-based documentation site for API
+* [iodocs](https://github.com/mashery/iodocs) - Interactive API documentation system
+
