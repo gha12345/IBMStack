@@ -19,6 +19,9 @@ OpenAPI (fka Swagger) Specification tutorial Series - https://apihandyman.io/wri
 10 realizations as I was creating my Swagger spec and Swagger UI
 http://idratherbewriting.com/2015/12/10/ten-realizations-using-swagger-and-swagger-ui/
 
+https://mattfrear.com/2015/04/21/generating-swagger-example-responses-with-swashbuckle/
+
+
 http://swagger.io/commercial-tools/
 
 
