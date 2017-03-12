@@ -34,9 +34,9 @@
   * Build, debug, deploy Java microservice apps
   * Node.js & Java common management & scaling
   * Seamlessly stage to cloud or on-prem catalog
-  
-  
- * [Getting started with IBM API Connect](https://www.ibm.com/support/knowledgecenter/en/SSMNED_5.0.0/mapfiles/getting_started.html)
+
+# Getting started
+* [Getting started with IBM API Connect](https://www.ibm.com/support/knowledgecenter/en/SSMNED_5.0.0/mapfiles/getting_started.html)
   
 # IBM API Connect
 * [The Role of Webhooks in the API World](https://dzone.com/articles/webhooks-role-in-the-api-world-1)
