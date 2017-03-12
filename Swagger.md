@@ -55,3 +55,17 @@ RAML is a newish JSON- and YAML-based API modeling language specification. It's 
 * [carte](https://github.com/Wiredcraft/carte)-Simple Jekyll-based documentation site for API
 * [iodocs](https://github.com/mashery/iodocs) - Interactive API documentation system
 
+![1](http://idratherbewriting.com/images_api/swaggerpetstoreui.png)
+![1](https://tech.homeaway.com/uploads/generating-swagger-spec/swagger-blog-diagram.png)
+![1](https://mattfrear.files.wordpress.com/2016/01/capture.jpg)
+![1](https://mattfrear.files.wordpress.com/2016/01/untitled.png)
+![1](https://mattfrear.files.wordpress.com/2016/01/capture2.jpg)
+![1](http://idratherbewriting.com/images_api/petstorepostpet.png)
+![1](http://idratherbewriting.com/images_api/swagger-editor-example.png)
+![1](https://mattfrear.files.wordpress.com/2015/04/response.png)
+![1](https://mattfrear.files.wordpress.com/2015/04/swagger.png)
+![1](https://mattfrear.files.wordpress.com/2015/04/response-old.png)
+![1](https://mattfrear.files.wordpress.com/2015/04/response-new.png)
+![1](http://devo.ps/images/posts/carte-screenshot.png)
+![1](http://django-rest-swagger.readthedocs.io/en/stable-0.3.x/_images/artisan_cigar.png)
+
