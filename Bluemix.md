@@ -1,6 +1,6 @@
 # IBM Bluemix
 
-# IBM Bluemix Catalog 
+# [IBM Bluemix Catalog](https://console.ng.bluemix.net/catalog/) 
 * Infrastructure
   * Compute
   * Storage
