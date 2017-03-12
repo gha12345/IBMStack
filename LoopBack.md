@@ -8,3 +8,7 @@ Tutorials and examples
 https://loopback.io/doc/en/lb2/Tutorials-and-examples.html
 
 https://github.com/strongloop/strong-express-metrics
+
+
+StrongLoop API Documentation
+http://apidocs.strongloop.com/
