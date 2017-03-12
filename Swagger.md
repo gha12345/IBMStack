@@ -20,3 +20,14 @@ OpenAPI (fka Swagger) Specification tutorial Series - https://apihandyman.io/wri
 http://idratherbewriting.com/2015/12/10/ten-realizations-using-swagger-and-swagger-ui/
 
 http://swagger.io/commercial-tools/
+
+
+
+# Sample 
+Swagger Sample - Petstore
+http://petstore.swagger.io
+
+Created by Reverb API
+https://reverb.com/swagger#!/accounts
+
+Watson API Explorer - 	https://watson-api-explorer.mybluemix.net/ - A collection of Swagger documentation for the Watson APIs.
