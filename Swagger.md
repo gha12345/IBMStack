@@ -9,6 +9,9 @@
 * [10 realizations as I was creating my Swagger spec and Swagger UI](http://idratherbewriting.com/2015/12/10/ten-realizations-using-swagger-and-swagger-ui/)
 
 
+# Swagger Ecosystem
+* [Swagger Ecosystem](http://swagger.io/open-source-integrations/)
+
 # Sample 
 * [Swagger Sample - Petstore](http://petstore.swagger.io)
 * [Created by Reverb API](https://reverb.com/swagger#!/accounts)
