@@ -31,3 +31,6 @@ https://www.youtube.com/watch?v=ptLfwp6JYgk
 https://www.ibm.com/blockchain/
 Build and host blockchain networks, quickly and securely
 
+
+Understand the fundamentals of IBM Blockchain
+https://www.ibm.com/blockchain/what-is-blockchain.html
