@@ -24,3 +24,6 @@ https://console.ng.bluemix.net/catalog/services/blockchain?cm_mc_uid=78178503252
 Devcon2: Ethereum in 25 Minutes 
 https://www.youtube.com/watch?v=66SaEDzlmP4
 
+
+What is Ethereum? A Simple Explanation Anyone Can Understand 
+https://www.youtube.com/watch?v=ptLfwp6JYgk
