@@ -9,6 +9,9 @@ http://www.ameerrosic.com/what-is-blockchain-finally-a-simple-guide/
 
 * [Travelling in a blockchain enabled world](https://venturebeat.com/2017/04/13/travelling-in-a-blockchain-enabled-world/)
 
+What is Ethereum? Step-by-Step Ethereum Infographic
+http://www.ameerrosic.com/what-is-ethereum-step-by-step-ethereum-infographic/
+
 
 # Ethereum
 * [ethereum](https://www.ethereum.org/) - Blockchain App Platform
