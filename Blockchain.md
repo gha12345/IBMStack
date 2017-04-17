@@ -37,3 +37,8 @@ Build and host blockchain networks, quickly and securely
 
 Understand the fundamentals of IBM Blockchain
 https://www.ibm.com/blockchain/what-is-blockchain.html
+
+
+5 Blockchain Applications That Will Transform Society: What is The Future of Blockchain?
+http://www.ameerrosic.com/5-blockchain-applications-that-will-transform-society-what-is-the-future-of-blockchain/
+
