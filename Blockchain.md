@@ -15,3 +15,7 @@ https://www.reddit.com/r/ethereum/comments/64wtpz/ethereum_core_devs_meeting_13_
 DEVCON1: Ethereum for Dummies - Dr. Gavin Wood 
 https://www.youtube.com/watch?v=U_LK0t_qaPo
 
+
+## blockchain in Bluemix
+
+https://console.ng.bluemix.net/catalog/services/blockchain?cm_mc_uid=78178503252614645793985&cm_mc_sid_50200000=1488999980&cm_mc_sid_52640000=1492465775
