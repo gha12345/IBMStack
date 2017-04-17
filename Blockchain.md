@@ -13,6 +13,12 @@ What is Ethereum? Step-by-Step Ethereum Infographic
 http://www.ameerrosic.com/what-is-ethereum-step-by-step-ethereum-infographic/
 
 
+
+http://www.ameerrosic.com/the-7-most-valuable-blockchain-and-bitcoin-startups-in-the-world/
+
+
+
+
 # Ethereum
 * [ethereum](https://www.ethereum.org/) - Blockchain App Platform
 
