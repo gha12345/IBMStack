@@ -27,3 +27,7 @@ https://www.youtube.com/watch?v=66SaEDzlmP4
 
 What is Ethereum? A Simple Explanation Anyone Can Understand 
 https://www.youtube.com/watch?v=ptLfwp6JYgk
+
+https://www.ibm.com/blockchain/
+Build and host blockchain networks, quickly and securely
+
