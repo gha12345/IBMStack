@@ -10,3 +10,6 @@ https://www.udemy.com/how-to-setup-private-ethereum-blockchain-consortium-on-aws
 
 Setting up Ethereum Blockchain on Microsoft Azure in 1 Hour
 https://www.udemy.com/setting-up-ethereum-blockchain-on-microsoft-azure-in-1-hour/
+
+Learn Ethereum Blockchain & Smart Contracts within 1 Hour
+https://www.udemy.com/learn-ethereum-blockchain-smart-contracts-within-1-hour/
