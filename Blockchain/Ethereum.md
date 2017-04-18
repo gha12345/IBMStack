@@ -1,5 +1,18 @@
 ![1](https://i.stack.imgur.com/T1lpy.png)
 
+https://ethereum.stackexchange.com/questions/125/how-do-i-set-up-a-private-ethereum-network
+
+https://consensys.github.io/developers/articles/101-noob-intro/
+
+http://cryptocentral.info/topic/342/updated-details-stratis-the-first-blockchain-developed-for-businesses-full-pos/5
+
+Create a Hello World Contract in ethereum
+https://www.ethereum.org/greeter
+
+
+https://libraries.io/github/citizencode/embark-framework
+
+
 # Good Intro
 https://consensys.github.io/developers/articles/101-noob-intro/
 
