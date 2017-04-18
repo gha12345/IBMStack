@@ -1,5 +1,8 @@
 ![1](https://i.stack.imgur.com/T1lpy.png)
 
+# Good Intro
+https://consensys.github.io/developers/articles/101-noob-intro/
+
 https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
 
 How to Build a Crowdsale App in Ethereum Blockchain
