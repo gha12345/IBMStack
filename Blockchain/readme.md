@@ -33,6 +33,9 @@ https://www.youtube.com/watch?v=U_LK0t_qaPo
 https://console.ng.bluemix.net/catalog/services/blockchain?cm_mc_uid=78178503252614645793985&cm_mc_sid_50200000=1488999980&cm_mc_sid_52640000=1492465775
 
 
+Blockchain Basics: A Practical Approach
+https://www.udemy.com/blockchain-basics-a-practical-approach-by-toshendra-sharma/#curriculum
+
 Devcon2: Ethereum in 25 Minutes 
 https://www.youtube.com/watch?v=66SaEDzlmP4
 
