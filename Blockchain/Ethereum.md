@@ -1,3 +1,4 @@
+![1](https://i.stack.imgur.com/T1lpy.png)
 
 https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
 
