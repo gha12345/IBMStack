@@ -30,3 +30,64 @@ https://www.udemy.com/multichain-how-to-setup-private-blockchain-using-aws-ec2/
 Blockchain Basics: A Practical Approach
 https://www.udemy.com/blockchain-basics-a-practical-approach-by-toshendra-sharma/
 
+
+
+Solidity Contracts
+http://ether.fund/contracts/solidity
+
+
+Docker images for Ethereum
+https://github.com/ethereum/ethereum-dockers
+
+
+https://github.com/ethereum
+
+
+web3.js
+Ethereum JavaScript API
+https://github.com/ethereum/web3.js
+
+
+5 Essential Ethereum Dapp Tools
+https://karl.tech/5-essential-ethereum-dapp-tools/
+
+
+# Truffle
+http://truffleframework.com/
+YOUR ETHEREUM SWISS ARMY KNIFE
+Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
+
+
+https://github.com/hitchcott/dapp-frameworks
+
+
+DAPPS FOR BEGINNERS
+https://dappsforbeginners.wordpress.com/tutorials/introduction-to-development-on-ethereum/
+
+
+https://github.com/Starbuckers/starbuckers
+
+
+Template for Ethereum (Solidity) smart contract decentralized app (dapp) and test suite with Webpack.
+
+https://github.com/uzyn/ethereum-webpack-example-dapp
+
+https://github.com/dapphub/dapple
+
+http://dapps.ethercasts.com/
+
+https://dappsforbeginners.wordpress.com/
+
+https://ethereum.stackexchange.com/questions/89/is-there-a-list-of-dapps-that-are-already-useable
+
+https://due.com/blog/why-build-decentralized-applications-understanding-dapps/
+
+https://github.com/ledgerlabs/ethereum-getting-started/wiki
+
+
+https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html
+
+
+https://learnxinyminutes.com/docs/solidity/
+
+http://ethdocs.org/en/latest/contracts-and-transactions/developer-tools.html
