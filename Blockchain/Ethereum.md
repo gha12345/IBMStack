@@ -1,4 +1,6 @@
 
+https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
+
 How to Build a Crowdsale App in Ethereum Blockchain
 https://www.udemy.com/how-to-build-a-crowd-sale-app-in-ethereum-blockchain/
 
