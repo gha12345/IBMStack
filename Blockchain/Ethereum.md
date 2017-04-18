@@ -22,3 +22,9 @@ https://www.udemy.com/blockchain-glossary-learn-blockchain-frequently-used-terms
 Build Blockchain Applications: Proof Of Existence
 https://www.udemy.com/build-blockchain-application-proof-of-existence/
 
+MultiChain: How To Setup A Private Blockchain Using AWS EC2
+https://www.udemy.com/multichain-how-to-setup-private-blockchain-using-aws-ec2/
+
+Blockchain Basics: A Practical Approach
+https://www.udemy.com/blockchain-basics-a-practical-approach-by-toshendra-sharma/
+
