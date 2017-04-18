@@ -13,3 +13,12 @@ https://www.udemy.com/setting-up-ethereum-blockchain-on-microsoft-azure-in-1-hou
 
 Learn Ethereum Blockchain & Smart Contracts within 1 Hour
 https://www.udemy.com/learn-ethereum-blockchain-smart-contracts-within-1-hour/
+
+
+Blockchain Glossary - Learn Blockchain Frequently Used Terms
+https://www.udemy.com/blockchain-glossary-learn-blockchain-frequently-used-terms-quickly/
+
+
+Build Blockchain Applications: Proof Of Existence
+https://www.udemy.com/build-blockchain-application-proof-of-existence/
+
