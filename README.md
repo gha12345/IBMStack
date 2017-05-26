@@ -36,7 +36,19 @@ https://github.com/IBM-Bluemix/insurance-bot-dashboard
 https://github.com/derekja/bluemix_demo
 https://github.com/dam1/BluemixSample
 
+Documentation and Tutorials
+https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/all-tutorials/
 
+
+MobileFirst Quality Assurance for MobileFirst Platform Foundation 8.0
+https://mobilefirstplatform.ibmcloud.com/tutorials/en/quality-assurance/8.0/
+
+
+MobileFirst Foundation 8.0 Migration Cookbook
+https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/upgrading/migration-cookbook/
+
+IBM MobileFirst Platform Tutorials
+https://mobilefirstplatform.ibmcloud.com/tutorials/en/
 
 * [IBM Cloud Data Services](CDSLab/CodeCamp2016)
 * [APIConnect Loopback basics](https://github.com/asimX/APIConnect-Loopback-basics)
