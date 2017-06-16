@@ -9,9 +9,9 @@ Take your first step into the cognitive era with our variety of smart services.
   * Discovery
 
 * Language
-  * AlchemyLanguage
+  * AlchemyLanguage - Retired 
   * Conversation
-  * Dialog
+  * Dialog - Retired
   * Document Conversion
   * Language Translator
   * Natural Language Classifier
@@ -19,6 +19,7 @@ Take your first step into the cognitive era with our variety of smart services.
   * Personality Insights
   * Retrieve and Rank
   * Tone Analyzer
+
 
 * SPEECH
   * Speech to Text
