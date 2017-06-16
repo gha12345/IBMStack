@@ -33,3 +33,6 @@ Take your first step into the cognitive era with our variety of smart services.
   * Discovery News
   * Tradeoff Analytics
 
+Watson documentation - https://www.ibm.com/watson/developercloud/doc/index.html
+
+* [Developer Tools](https://www.ibm.com/watson/developercloud/developer-tools.html) - Resources to help you build with Watson.
