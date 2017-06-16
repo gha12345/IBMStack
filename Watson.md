@@ -36,3 +36,4 @@ Take your first step into the cognitive era with our variety of smart services.
 Watson documentation - https://www.ibm.com/watson/developercloud/doc/index.html
 
 * [Developer Tools](https://www.ibm.com/watson/developercloud/developer-tools.html) - Resources to help you build with Watson.
+* [Watson Developer Cloud - Github](https://github.com/watson-developer-cloud/)
