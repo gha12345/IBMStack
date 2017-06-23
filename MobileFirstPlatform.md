@@ -51,6 +51,28 @@ https://www-304.ibm.com/services/learning/ites.wss/zz/en/?pageType=page&c=J17953
 * [Documentation](https://www.ibm.com/support/knowledgecenter/SSHS8R_7.1.0/wl_welcome.html)
 * 
 
+
+## Introduction to MobileFirst Studio
+IBM MobileFirst Platform Studio is an Eclipse plug-in that supports the development of rich, mobile web, native, and hybrid apps. It contains an embedded version of MobileFirst Server, a bidirectional WYSIWYG editor, and standard web technologies and tools.
+
+You use MobileFirst Studio to:
+
+* Develop rich HTML5, hybrid and native applications for all supported modern devices
+* Maximize code sharing by defining custom behavior and styling guidelines that match the target environment
+* Access device APIs by using native code or standard web languages over a uniform Apache Cordova bridge
+* Preview and manage applications by using MobileFirst Console
+* Create custom server-side Java code that can be used by MobileFirst adapters
+* Create, modify and test MobileFirst Java and JavaScript adapters
+* Use both native and standard web languages within the same application to achieve development efficiency and provide a rich user experience
+* Use third-party tools, libraries, and frameworks
+
+## Introduction to MobileFirst CLI
+IBM MobileFirst Platform Foundation provides a command-line interface tool to easily create and manage apps. The CLI lets you use your preferred text editors or alternative IDEs to create mobile applications.
+
+The commands support tasks such as creating, adding, and configuring with the API library, adding the client-side properties file and performing the build and deploy of the application. From the command-line, you can create and deploy adapters, and test them locally. You can administer your project from CLI or REST services, or the Console, where you can control the local server and observe the logs.
+
+
+
 ##Tutorial
 *[Tutorial](https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/7.1/all-tutorials/)
 
