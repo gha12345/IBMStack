@@ -10,6 +10,10 @@
 
 MobileFirst Development Kit bundles together the following components: 
 * MobileFirst Server 
+  * MobileFirst and the MobileFirst Server administration service
+  * MobileFirst runtime
+  * MobileFirst Server push service
+  * MobileFirst Analytics and the MobileFirst Analytics Console
 * MobileFirst Operations Console
 * MobileFirst Command-line Interface (CLI)
 * MobileFirst client SDKs 
@@ -17,6 +21,8 @@ MobileFirst Development Kit bundles together the following components:
 * MobileFirst Plaform Fountation
 * MobileFirst Studio
 * MobileFirst Mobile Test Workbench
+
+MobileFirst Server
 
 Production Server
 * IBM Installation Manager
@@ -34,6 +40,14 @@ Production Server
 * Analytics
 * Monitoring
 * Application publishing
+
+
+Matrix of features & platforms
+http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/product-overview/features-matrix/
+
+
+
+
 
 
 
