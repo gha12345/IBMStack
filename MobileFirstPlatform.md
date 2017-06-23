@@ -42,6 +42,16 @@ Developers
 Admins
 
 
+## [Product Components](http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/product-overview/components/)
+* MobileFirst CLI
+* MobileFirst Server
+* Client-side runtime components
+* MobileFirst Operations Console
+* MobileFirst Application Center
+* MobileFirst System Pattern
+
+![1](http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/product-overview/components/architecture.jpg)
+
 
 
 IBM MobileFirst Platform Foundation-http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/api/client-side-api/
