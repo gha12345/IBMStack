@@ -24,6 +24,25 @@ Production Server
 * MobileFirst Server for Production
 
 
+## [Product Main Capabilities](http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/product-overview/capabilities/)
+* Development
+* Back-end connections
+* Push notifications
+* Offline mode
+* Update
+* Security
+* Analytics
+* Monitoring
+* Application publishing
+
+
+
+Foundation
+Developers
+Admins
+
+
+
 
 IBM MobileFirst Platform Foundation-http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/api/client-side-api/
 
