@@ -25,6 +25,26 @@ Production Server
 
 
 
+IBM MobileFirst Platform Foundation-http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/api/client-side-api/
+
+MobileFirst Server
+IBM MobileFirst Platform Studio is an Eclipse plug-in
+MobileFirst CLI
+MobileFirst Platform Operations Console
+
+
+Server-side development
+	JavaScript adapters
+	Java Adapters
+JSONStore
+
+Notifications
+Analytics
+Foundation on Bluemix
+Application Center
+
+
+
 ## API Connect
 
 * [Getting Started](https://developer.ibm.com/apiconnect/getting-started/)
