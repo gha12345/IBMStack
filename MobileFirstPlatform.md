@@ -47,6 +47,30 @@ http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/product-over
 
 
 
+# [Developing Applications](http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/application-development/)
+* Adding the MobileFirst SDK
+* Using the MobileFirst CLI
+* MobileFirst Eclipse plug-in
+* Cordova application development
+* Resource Requests
+* JSONStore
+* Client-side log collection
+* Direct Update
+* Multilingual translation
+* Debugging applications
+* Live Update
+* Simple Data Sharing
+* watchOS 2, watchOS 3
+
+# [Developing Adapters](http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/adapters/)
+* Creating Adapters
+* JavaScript Adapters
+* Java Adapters
+* Developing Adapters in Eclipse
+* Testing and Debugging Adapters
+* Server-side log collection
+* Adapter Mashup
+* Integrating with Cloudant
 
 
 
