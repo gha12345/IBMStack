@@ -1,4 +1,8 @@
 
+
+* [Integrating IBM MobileFirst Platform Foundation SDK in Cordova applications](https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/7.1/hello-world/integrating-mfpf-sdk-in-cordova-applications/)
+
+
 * [Integrating IBM MobileFirst Platform Foundation SDK in Cordova applications- Sampple](https://github.com/MobileFirst-Platform-Developer-Center/Cordova/tree/release71)
 
 ```bat
