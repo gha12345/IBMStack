@@ -13,7 +13,8 @@ IBM MobileFirst Foundation 8.0 migration process demo
 https://www.youtube.com/watch?v=nLrtdOEkbEs
 
 
-
+# Github
+https://github.com/MobileFirst-Platform-Developer-Center/DevCenter/tree/master/tutorials/en/foundation/8.0/upgrading
 https://github.com/MobileFirst-Platform-Developer-Center/DevCenter/blob/master/tutorials/en/foundation/8.0/upgrading/migrating-client-applications/cordova/index.md
 
 
