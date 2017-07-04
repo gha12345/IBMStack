@@ -25,11 +25,11 @@
   * **App & API Performance Analytics** - Stay ahead of problems, and keep your app responsive.
   * **App Usage Metrics & Custom Business Metrics** - Understand your users and how they use your app.
 
-* **Backend Logic Engine* - To add server side logic to your app
+* **Backend Logic Engine** - To add server side logic to your app
   * **Adapters** - Quickly develop & run server side code to communicate with your backend systems securely. Add your business logic, and make it dynamically configurable so you can change app behavior without recompile.
-  * **Dynamic Set-up of App Security & Back-End Configuration - Make changes in real-time to the app security configuration (eg. authentication method, max number of login attempts allowed) or backend configuration (eg. Database URL), with zero downtime or recompile.
+  * **Dynamic Set-up of App Security & Back-End Configuration** - Make changes in real-time to the app security configuration (eg. authentication method, max number of login attempts allowed) or backend configuration (eg. Database URL), with zero downtime or recompile.
 
-* **Push & Offline Sync* - Essential backend services that every app needs
+* **Push & Offline Sync** - Essential backend services that every app needs
   * **Push and SMS Notifications** - Deliver messages to multiple platforms with a single API & send targeted messages from a web console.
   * **JSONStore** - Encrypted on device storage & automated data sync for better app performance & offline access.
 
