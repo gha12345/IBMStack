@@ -1,6 +1,10 @@
 # IBM MobileFirst Foundation 8.0 migration 
 
 * Migrating client applications
+  * Migrating existing Cordova and hybrid applications
+  * Migrating existing iOS applications
+  * Migrating existing Android applications
+  * Migrating existing Windows applications
 * Migrating existing adapters
 * Migrating apps storing mobile data
 * Migrating push notifications
