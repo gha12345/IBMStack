@@ -7,9 +7,7 @@
 
 
 # Mobile First Platform - Product Features
-
 * **Comprehensive Security** - Protect from mobile specific threats
-
   * **Advanced Mobile Authentication** - Easily add advanced mobile authentication to your apps, including step-up, multi-factor, SSO between apps & between back-ends and more.
   * **App Authenticity** - App fingerprinting to prevent access to your APIs from malicious apps.
   * **Certificate Pinning** - Thwart Man-in-the-Middle attacks.
