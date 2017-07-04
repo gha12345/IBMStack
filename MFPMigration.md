@@ -4,6 +4,8 @@ IBM MobileFirst Foundation 8.0 migration process demo
 https://www.youtube.com/watch?v=nLrtdOEkbEs
 
 
+![1](https://github.com/ramyrams/IBMStack/blob/master/MPFMigration.png)
+
 Lab 2.49. New Hybrid Wallet. Migration from MFP 7.1 to 8.0 BETA 
 https://www.youtube.com/watch?v=PofsEZMhBmw
 
