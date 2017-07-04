@@ -1,10 +1,21 @@
+# IBM MobileFirst Foundation 8.0 migration 
+
+* Migrating client applications
+* Migrating existing adapters
+* Migrating apps storing mobile data
+* Migrating push notifications
+* Migrating Security (authentication concepts)
+
+![1](https://github.com/ramyrams/IBMStack/blob/master/MPFMigration.png)
 
 
 IBM MobileFirst Foundation 8.0 migration process demo
 https://www.youtube.com/watch?v=nLrtdOEkbEs
 
 
-![1](https://github.com/ramyrams/IBMStack/blob/master/MPFMigration.png)
+
+https://github.com/MobileFirst-Platform-Developer-Center/DevCenter/blob/master/tutorials/en/foundation/8.0/upgrading/migrating-client-applications/cordova/index.md
+
 
 Lab 2.49. New Hybrid Wallet. Migration from MFP 7.1 to 8.0 BETA 
 https://www.youtube.com/watch?v=PofsEZMhBmw
