@@ -9,6 +9,10 @@
 * Migrating apps storing mobile data
 * Migrating push notifications
 * Migrating Security (authentication concepts)
+  * Migrate the resource adapter, including the resource-protection logic.
+  * Migrate the client application.
+  * Migrate the authentication realms of the sample V7.1 application by replacing them with V8.0 security checks.
+  * Migrate the challenge handlers on the client side to use the new challenge-handler API.
 
 ![1](https://github.com/ramyrams/IBMStack/blob/master/MPFMigration.png)
 
