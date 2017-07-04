@@ -6,6 +6,8 @@
   * Migrating existing Android applications
   * Migrating existing Windows applications
 * Migrating existing adapters
+  * Migrating Java adapters to Maven projects for MobileFirst Server v8.0
+  * Migrating JavaScript adapters to Maven projects for MobileFirst Server v8.0
 * Migrating apps storing mobile data
 * Migrating push notifications
 * Migrating Security (authentication concepts)
