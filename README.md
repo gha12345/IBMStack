@@ -1,3 +1,5 @@
+
+![1](http://www.tricedesigns.com/wp-content/uploads/2014/11/MobileFirst-Logo.jpg)
 # IBMStack
 
 ## Start here
