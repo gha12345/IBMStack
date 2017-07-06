@@ -10,10 +10,53 @@
 * Cordova project structure
 * MobileFirst Platform initialization flow
 * Previewing the application web resources
+```bat
+//MobileFirst Development Server should be running. 
+//If not yet available, use the mfp create command to setup a new MobileFirst back-end project
+//followed by the mfp start command to initialize MobileFirst Server.
+
+mfp create MyMFPProject
+cd MyMFPProject
+mfp start
+
+mfp cordova preview
+```
 * Testing an application on an emulator or device
+```bat
+//To run the application by using the Android Emulator or the iOS Simulator
+mfp cordova emulate
+
+//you can plug a device into your computer and test the app directly 
+mfp cordova run
+
+```
 * Managing Cordova platforms
+```bat
+//run and select the platform
+mfp cordova platform add
+
+//List available platforms in Cordova app: 
+mfp cordova platform list
+
+//Remove a platform: 
+mfp cordova platform remove
+```
+
 * Managing Cordova plug-ins
+```bat
+
+//manage the plug-ins used in the Cordova project 
+mfp cordova plugin [option]
+```
+
 * Registering applications
+```bat
+//Registering applications to a local development server
+mfp push
+
+//Registering applications to a remote development server
+mfp server add
+```
 * Supported MobileFirst features
 
 
@@ -124,7 +167,7 @@ After the Cordova project is created, the following files and folders are genera
 ![1](https://mobilefirstplatform.ibmcloud.com/assets/backup/cordova-project-structure.png)
 ![1](https://mobilefirstplatform.ibmcloud.com/assets/backup/cordova-app-1024x560.png)
 
-
+# MobileFirst Platform initialization flow
 ```js
 var Messages = {
     // Add here your messages for the default language.
