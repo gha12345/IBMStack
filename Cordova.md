@@ -121,7 +121,7 @@ var wlInitOptions = {
 function wlCommonInit(){
 	// Common initialization code goes here
     document.getElementById('app_version').innerText = WL.Client.getAppProperty("APP_VERSION");
-    document.getElementById('mobilefirst').setAttribute('style', 'display:block;');
+    document.getElementById('menu').setAttribute('style', 'display:block;');
 }
 var app = {
     // Application Constructor
@@ -140,13 +140,50 @@ var app = {
     },
     // Update the DOM on a received event.
     receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
+		var parentElement = document.getElementById(id);
         var listeningElement = parentElement.querySelector('.listening');
         var receivedElement = parentElement.querySelector('.received');
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
         console.log('Received Event: ' + id);
+    },
+    // Trigger the vibration
+    vibrate: function(){
+        WL.Logger.info("vibrating");
+        navigator.vibrate(3000);
+    },
+    // Trigger the camera
+    getPicture: function(){
+        navigator.camera.getPicture(app.getPictureSuccess, app.getPictureFail, { quality: 50,
+            destinationType: Camera.DestinationType.FILE_URI });
+    },
+    // Receive the result from the camera
+    getPictureSuccess: function(imageURI){
+        WL.Logger.info("getPicture success "+imageURI);
+        document.getElementById("image").src=imageURI;
+    },
+    // Called when some error occur with the camera
+    getPictureFail: function(){
+        WL.Logger.error("getPicture failed");
+    },
+    // Execute a request to RSSAdapter/getStories
+    getRSSFeed: function(){
+        var resourceRequest = new WLResourceRequest(
+                    "/adapters/RSSAdapter/getStories",
+                    WLResourceRequest.GET);
+        resourceRequest.send().then(app.getRSSFeedSuccess,app.getRSSFeedError);
+    },
+    // Receive the response from RSSAdapter
+    getRSSFeedSuccess:function(response){
+        WL.Logger.info("getRSSFeedsSuccess");
+        //The response.responseJSON element contains the data received from the back-end
+        alert("Total RSS Feed items received:"+response.responseJSON.rss.channel.item.length);
+    },
+    // Called when some error occurs during the request to RSSAdapter
+    getRSSFeedError:function(response){
+        WL.Logger.error("Response ERROR:"+JSON.stringify(response));
+        alert("Response ERROR:"+JSON.stringify(response));
     }
 };
-<p>app.initialize();
+app.initialize();
 ```
