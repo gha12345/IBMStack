@@ -4,7 +4,7 @@
 # Topics
 * Cordova CLI commands
 ```bat
-mfp cordova emulate
+	mfp cordova create
 ```
 * Creating a Cordova project
 * Cordova project structure
