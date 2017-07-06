@@ -69,27 +69,27 @@ https://www.codeproject.com/KB/mobile/1069661/HybridVsNativeApps.png
 https://www.codeproject.com/KB/mobile/1069661/Apache_Cordova.png
 https://www.codeproject.com/KB/mobile/1069661/Cordova_Architecture_1.png
 
-
-#Plugin APIs
-Battery Status
-Camera
-Console
-Contacts
-Device
-Device Motion
-Device Orientation
-Dialogs
-File
-File Transfer
-Geolocation
-Globalization
-Inappbrowser
-Media
-Media Capture
-Network Information
-Splashscreen
-Vibration
-Statusbar
-Whitelist
-Legacy Whitelist
+ 
+# Plugin APIs
+* Battery Status
+* Camera
+* Console
+* Contacts
+* Device
+* Device Motion
+* Device Orientation
+* Dialogs
+* File
+* File Transfer
+* Geolocation
+* Globalization
+* Inappbrowser
+* Media
+* Media Capture
+* Network Information
+* Splashscreen
+* Vibration
+* Statusbar
+* Whitelist
+* Legacy Whitelist
 
