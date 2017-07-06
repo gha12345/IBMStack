@@ -60,7 +60,7 @@ Cordova provides you two basic workflows to create a mobile app. While you can o
 
 
 * [Config.xml](https://cordova.apache.org/docs/en/latest/config_ref/index.html)
-
+* [Plugin.xml](https://cordova.apache.org/docs/en/latest/plugin_ref/spec.html)
 
 
 # Apache Cordova – History 
