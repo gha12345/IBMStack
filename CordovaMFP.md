@@ -3,6 +3,9 @@
 
 # Topics
 * Cordova CLI commands
+```bat
+mfp cordova emulate
+```
 * Creating a Cordova project
 * Cordova project structure
 * MobileFirst Platform initialization flow
