@@ -88,3 +88,65 @@ Examples
     cordova platform add ios --nofetch
     cordova plugin add cordova-plugin-camera --nofetch
 ```
+
+#Cordova project structure
+
+After the Cordova project is created, the following files and folders are generated. This project structure follows the standard Cordova project structure:
+
+
+* application-descriptor.xml - Application metadata for MobileFirst
+* config.xml - The Cordova configuration file with extended MobileFirst-related preferences
+* hooks - The Cordova hooks folder
+* mobilefirst - The folder that contains MobileFirst artifacts: .wlapp files that MobileFirst Server needs to recognize applications, as explained below
+* platforms - The folder that contains Cordova platforms support
+* plugins - The folder that contains Cordova plug-ins
+* www - The folder that contains the application web resources
+
+
+![1](https://mobilefirstplatform.ibmcloud.com/assets/backup/cordova-project-structure.png)
+![1](https://mobilefirstplatform.ibmcloud.com/assets/backup/cordova-app-1024x560.png)
+
+
+```js
+var Messages = {
+    // Add here your messages for the default language.
+    // Generate a similar file with a language suffix containing the translated messages.
+    // key1 : message1,
+};
+var wlInitOptions = {
+    // Options to initialize with the WL.Client object.
+    // For initialization options please refer to IBM MobileFirst Platform Foundation Knowledge Center.
+};
+// Called automatically after MFP framework initialization by WL.Client.init(wlInitOptions).
+function wlCommonInit(){
+	// Common initialization code goes here
+    document.getElementById('app_version').innerText = WL.Client.getAppProperty("APP_VERSION");
+    document.getElementById('mobilefirst').setAttribute('style', 'display:block;');
+}
+var app = {
+    // Application Constructor
+    initialize: function() {
+        this.bindEvents();
+    },
+    // Bind any events that are required on startup. Common events are:
+    // 'load', 'deviceready', 'offline', and 'online'.
+    bindEvents: function() {
+        document.addEventListener('deviceready', this.onDeviceReady, false);
+    },
+    // The scope of 'this' is the event. In order to call the 'receivedEvent'
+    // function, 'app.receivedEvent(...);' must be explicitly called.
+    onDeviceReady: function() {
+        app.receivedEvent('deviceready');
+    },
+    // Update the DOM on a received event.
+    receivedEvent: function(id) {
+        var parentElement = document.getElementById(id);
+        var listeningElement = parentElement.querySelector('.listening');
+        var receivedElement = parentElement.querySelector('.received');
+        listeningElement.setAttribute('style', 'display:none;');
+        receivedElement.setAttribute('style', 'display:block;');
+        console.log('Received Event: ' + id);
+    }
+};
+<p>app.initialize();
+```
