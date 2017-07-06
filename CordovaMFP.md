@@ -2,7 +2,6 @@
 
 
 # Topics
-
 * Cordova CLI commands
 * Creating a Cordova project
 * Cordova project structure
@@ -13,6 +12,7 @@
 * Managing Cordova plug-ins
 * Registering applications
 * Supported MobileFirst features
+
 
 
 * [Integrating IBM MobileFirst Platform Foundation SDK in Cordova applications](https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/7.1/hello-world/integrating-mfpf-sdk-in-cordova-applications/)
